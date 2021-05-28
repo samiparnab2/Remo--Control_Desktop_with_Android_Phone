@@ -8,7 +8,7 @@ This project is based on basic socket programing in JAVA. So you must have JDK i
 
 ## Usage
 
-1. Open terminal on your PC, go to the 'Desktop-Server' directory, compile the "Server.java" file and run.
+1. Open terminal on your PC, go to the __'Desktop-Server'__ directory, compile the "Server.java" file and run.
 
 ```bash
 javac Server.java
